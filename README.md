@@ -5,7 +5,7 @@
 **Disciplina:** Projeto Integrador (TCC)
 
 📓 **Notebook no Colab:** [[abrir no Google Colab](COLE_AQUI_O_LINK_DO_COLAB)](https://colab.research.google.com/drive/1NriVmCjVx_HvEXyTZutuZVdnXElt8887#scrollTo=s-dQrFY-kr0r)
-🎥 **Vídeo de apresentação:** [assistir no YouTube](COLE_AQUI_O_LINK_DO_YOUTUBE)
+🎥 **Vídeo de apresentação:** [assistir no YouTube]([COLE_AQUI_O_LINK_DO_YOUTUBE](https://www.youtube.com/watch?v=XZjWOWfP0v0))
 
 ---
 
